@@ -7,7 +7,7 @@
 
 ## 🎮 在线体验
 
-**👉 [点我开始玩](https://你的用户名.github.io/spin-game/)**
+**👉 [点我开始玩](https://superhorese000.github.io/lucky-spin/)**
 
 ---
 
